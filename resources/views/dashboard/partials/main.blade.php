@@ -10,6 +10,13 @@
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/dashboard/">
 
+    {{-- CDN css trix --}}
+    <link href="//cdn.jsdelivr.net/npm/trix@latest/dist/trix.css" rel="stylesheet">
+    {{-- CDN js trix --}}
+    <script src="//cdn.jsdelivr.net/npm/trix@latest/dist/trix.js"></script>
+    {{-- Host CDN trix --}}
+    <link href="//cdn.jsdelivr.net/npm/trix@latest/dist/trix.css" rel="stylesheet">
+
       {{-- Icon Bootstrap5 --}}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css"> 
 
